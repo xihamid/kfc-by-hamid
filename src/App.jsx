@@ -67,7 +67,7 @@ function App() {
   <div className="col-12">
 
 <div id="evryDayValue">
-  <h2 className='menu-title mt-0'>BEST SELLERS test</h2>
+  <h2 className='menu-title mt-0'>BEST SELLERS</h2>
 <div className='row'>
 {products.map((prod,index)=>{
   return (
